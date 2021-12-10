@@ -1,40 +1,81 @@
-AlertOps Expert Guidance
+5 Steps to Building a Robust Incident Response Plan for your MSP
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Today’s organizations face ransomware, malware, and other cyber attacks, and managed service providers (MSPs) need an incident response plan (or “IRP”) to mitigate against these threats.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+In a recent survey of 200 MSPs, 74% of respondents said they have suffered a cyber attack Due to lack of efficiency in their incident response plan, and 83% noted their small and medium-sized business (SMB) customers experienced one as well.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Yet, with an incident response plan (IRP), MSPs can protect themselves and their customers against cyber attacks.
 
-Automate Processes
+A Closer Look at How an MSP Security IRP Works
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+To understand how an MSP security IRP works, it is important to first review IT incident response planning and how it benefits all types of organizations.
 
-Clarity
+An IT incident response plan refers to a documented process for dealing with cyber attacks and other security incidents. The plan helps IT staff detect, respond to, and recover from security incidents and guard against cybercrime, data loss, and service outages. In doing so, the plan can protect an organization and its customers against security incidents.
+
+With an IRP in place, IT staff will know exactly how to respond to security incidents. So, if a significant disruption occurs, staff members can use the plan to stop, contain, and manage the incident.
+
+An IRP is backed by tools that IT staff can use to quickly determine where an incident occurred, which systems were impacted, and how to respond. The plan also accounts for data collection and analysis, and it encourages IT staff to retrieve incident data and evaluate it.
+
+That way, staff members can gain actionable insights to identify the root cause of an incident, prevent an incident from becoming a recurring problem, and improve their incident response efforts going forward.
+
+Build a Robust Incident Response Plan
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Here’s how an MSP can develop and implement a robust IRP:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
+1. Establish an Incident Response Team
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Create an incident response team who will collect and analyze incident data. The team can include IT staff and other stakeholders who are tasked with responding to an incident and taking the proper steps to resolve the issue as soon as it is identified. In addition, team members should leverage a secure and standardized system to keep in touch with one another throughout an incident and document all incident data.
 
-Conclusion
+With AlertOps, incident response team members can retrieve and evaluate data as an incident progresses. Once the incident has been resolved, these team members can perform a post-mortem to understand why the issue occurred and what can be done to prevent it from occurring again.
+
+2. Use an Incident Monitoring Tool
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Leverage a monitoring tool that allows incident response team members to identify incidents in their early stages. Ideally, the tool can be used in combination with other tools that incident response team members use daily.
 
-1 Red Canary 2021 Threat Detection Report
+AlertOps offers Open APIs, so an incident response team can integrate a monitoring tool into the platform to understand and classify incident data. AlertOps provides a custom rules engine that lets users classify and correlate data and enables users to set up triggers to send incident alerts. As such, AlertOps can help an incident response team get the most value out of its monitoring tool.
+
+3. Notify Appropriate Stakeholders
+====
+Ensure appropriate stakeholders can be notified about an incident. A system should be established that lets incident response team members send custom messages to specific groups. It should also allow an incident response team to escalate alerts and send targeted messages to key stakeholders.
+
+AlertOps ensures the right stakeholders are notified about an incident, every time. The platform lets an incident response team deliver timely, relevant, and accurate alert updates at all stages of an incident. When the incident is resolved, AlertOps ensures incident response team members will have no trouble sending the all-clear, too.
+
+4. Automate Incident Response
+====
+Determine triggers that can be used to automate incident response processes. Triggers ensure that the right stakeholders are automatically kept up to date throughout an incident and speed up incident response.
+
+AlertOps lets incident response team members design custom escalation rules and templates to automatically alert stakeholders throughout an incident.
+
+It also lets an incident response team automatically create tickets, schedule technicians, and escalate critical alerts when a first responder cannot be reached.
+
+Plus, AlertOps empowers an incident response team to schedule when stakeholders receive alerts, deliver alerts via stakeholders’ preferred communication channels (SMS, email, etc.), and apply escalation rules independent of on-call schedules.
+
+5. Get Experts Involved
+====
+Ensure incident response experts are notified immediately and can track an incident’s progress. Alerts should be delivered to these experts at every stage of an incident and include pertinent data.
+
+As such, incident response experts can get the information they need to make data-driven decisions to resolve the incident.
+
+Incident response experts should review an IRP after an incident as well. Every incident is a learning opportunity, and it can provide valuable insights into how an incident response team can bolster its IRP and guard against future incidents.
+
+Improve MSP Security with AlertOps for Incident Response
+====
+Optimizing an IRP is an ongoing endeavor, and an incident response team must remain diligent in its efforts to identify incident response improvement areas.
+
+By launching an IRP and evaluating an incident response team’s performance following incidents, an MSP is well-equipped to maximize the value of its IRP.
+
+Perhaps best of all, an MSP will be able to use its IRP to protect itself and its customers against cyber attacks and other security incidents.
+
+AlertOps helps MSPs develop and execute incident response plans. Our platform empowers incident response teams to quickly and effectively detect and resolve incidents, learn from them, and improve their security.
+
+Schedule a Demo NOW
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/msp-security-incident-response-steps/
 
 Read more:
 ====
